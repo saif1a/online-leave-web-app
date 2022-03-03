@@ -1,0 +1,46 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: onlineleavedb**
+
+**Developed by Yash Sojitra, Darshan Mamtani**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Admin Login Details**
+
+Username: liam
+Password: Password@123
+
+
+
+
+
+Fig2.1 Diagramme de cas d’utilisation
+Fig2.2 Diagramme de séquence de l’authentification
+Fig2.3 Diagramme de séquence de la gestion de candidats 
+Fig2.4 Diagramme de séquence de la gestion des Question
+Fig2.5 Architecture de la base de données
+Fig2.6 Diagramme de cas d’utilisation de la gestion des Question
+
+
+Fig3.1 Logo de Visual Studio
+Fig3.2 Logo de Figma
+Fig3.3 Logo de PHP
+Fig3.4 Logo de MySql
+Fig3.5 Logo de Illustrator
+Fig3.6 Logo de phpMyAdmin
+Fig3.7 Logo de HTML5
+Fig3.8 Logo de CSS3
+Fig3.9 Logo de JavaScript
+Fig3.10 Logo de Bootstrap
+Fig3.11 Photo du pc utilisé
+Fig3.12 interface de la page des statistiques 
+Fig3.13 interface de la page d’ajout des candidats
+Fig3.14 interface de la liste des candidats
+Fig3.15 interface de l’interview
+Fig3.16 interface de l’ajout des questions
+Fig3.17 interface de consultation des questions
+
+
+
