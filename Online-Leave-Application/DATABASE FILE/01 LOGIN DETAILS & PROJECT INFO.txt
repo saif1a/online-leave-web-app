@@ -1,11 +1,8 @@
-**Log on to codeastro.com for more projects!***
+
 
 **Database Name: onlineleavedb**
 
-**Developed by Yash Sojitra, Darshan Mamtani**
-
-**Recommended PHP Version 5.6 or Newer**
-
+**Developed by saif eddne yahyaoui**
 
 **Admin Login Details**
 
